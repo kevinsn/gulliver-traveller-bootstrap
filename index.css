@@ -104,3 +104,34 @@
   background-position: -880px 15px;
   background-repeat: no-repeat;
 }
+
+.hospedagens{
+    background-color: var(--orange-p);
+    margin-top: 3rem;
+    padding-top: 3rem;
+}
+
+.borda-titulo{
+    width: 350px;
+    height: 42px;
+    margin-bottom: 2rem;
+    padding-top: 0.5rem;
+    padding-left: 2rem;
+    background-color: var(--blue-p);
+    border-radius: 35px;
+}
+
+.borda-titulo h2{
+    font-size: 1.5rem;
+    color: var(--white-p);
+}
+
+.card{
+    background-color: transparent!important;
+    border-radius: 35px!important;
+}
+
+.card img{
+    border-radius: 35px;
+    
+}
