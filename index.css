@@ -77,3 +77,30 @@
     color: var(--white-p);
     font-weight: 300;
 }
+
+.imgHospedagem{
+  /* border: 1px solid red; */
+  width: 224px;
+  height: 240px;
+  background-image: url(./img/servicos.png);
+  background-position: 4px 15px;
+  background-repeat: no-repeat;
+}
+
+.imgAluguel{
+  /* border: 1px solid red; */
+  width: 224px;
+  height: 240px;
+  background-image: url(./img/servicos.png);
+  background-position: -448px 15px;
+  background-repeat: no-repeat;
+}
+
+.imgRefeicoes{
+  /* border: 1px solid red; */
+  width: 224px;
+  height: 240px;
+  background-image: url(./img/servicos.png);
+  background-position: -880px 15px;
+  background-repeat: no-repeat;
+}
