@@ -39,8 +39,18 @@ header{
 .texto{
     margin-top: 5%;
     color: var(--white-p);
-    font-size: 12px;
+    font-size: 14px;
     margin-left: 4%;
+}
+
+.texto h1{
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    font-weight: 900;
+}
+.texto p{
+    margin-bottom: 2rem;
+    text-align: left;
 }
 
 .login{
@@ -81,6 +91,30 @@ header{
     font-weight: 300;
 }
 
+.custom-shape-divider-top-1653697456 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: -1%!important;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1653697456 svg {
+    position: relative;
+    display: block;
+    width: calc(137% + 1.3px);
+    height: 133px;
+}
+
+.custom-shape-divider-top-1653697456 .shape-fill {
+    fill: var(--blue-p);
+}
+
+/* Serviços */
+
 .imgHospedagem{
   /* border: 1px solid red; */
   width: 224px;
@@ -107,6 +141,8 @@ header{
   background-position: -880px 15px;
   background-repeat: no-repeat;
 }
+
+/* Hotéis */
 
 .hospedagens{
     background-color: var(--orange-p);
@@ -139,6 +175,8 @@ header{
 
 }
 
+/* Contato */
+
 .contato{
     color:  #F28907; 
     font-weight: 800; 
@@ -151,6 +189,7 @@ header{
     
     color: var(--orange-p);
 }
+
 .formulario-contato input, textarea{
     margin-top: 2rem;
     margin-bottom: 1rem;
