@@ -199,13 +199,11 @@ header{
 }
 
 .email{
-    width: 689px;
     height: 55px;
     padding: 1.5rem;
 }
 
 .mensagem{
-    width: 689px;
     height: 180px;
     padding: 1.5rem;
     resize: none;
